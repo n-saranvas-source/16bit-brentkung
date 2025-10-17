@@ -1,0 +1,12 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/htara/OneDrive/Desktop/VIVA/16bit_brent/16bit_brent.srcs/sources_1/new/BKA.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module BKA
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/htara/OneDrive/Desktop/VIVA/16bit_brent/16bit_brent.srcs/sources_1/new/buff.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module buff
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/htara/OneDrive/Desktop/VIVA/16bit_brent/16bit_brent.srcs/sources_1/new/carry.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module carry
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/htara/OneDrive/Desktop/VIVA/16bit_brent/16bit_brent.srcs/sources_1/new/carrygen.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module carrygen
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/htara/OneDrive/Desktop/VIVA/16bit_brent/16bit_brent.srcs/sources_1/new/sum.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sum
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/htara/OneDrive/Desktop/VIVA/16bit_brent/16bit_brent.srcs/sim_1/new/tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_bka

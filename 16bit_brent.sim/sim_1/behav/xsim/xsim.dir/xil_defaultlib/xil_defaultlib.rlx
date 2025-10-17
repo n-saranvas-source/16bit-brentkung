@@ -1,0 +1,11 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+C:/Users/htara/OneDrive/Desktop/VIVA/16bit_brent/16bit_brent.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,,,,,,,
+C:/Users/htara/OneDrive/Desktop/VIVA/16bit_brent/16bit_brent.srcs/sim_1/new/tb.v,1730902490,verilog,,,,tb_bka,,,,,,,,
+C:/Users/htara/OneDrive/Desktop/VIVA/16bit_brent/16bit_brent.srcs/sources_1/new/BKA.v,1730910377,verilog,,C:/Users/htara/OneDrive/Desktop/VIVA/16bit_brent/16bit_brent.srcs/sources_1/new/buff.v,,BKA,,,,,,,,
+C:/Users/htara/OneDrive/Desktop/VIVA/16bit_brent/16bit_brent.srcs/sources_1/new/buff.v,1730838093,verilog,,C:/Users/htara/OneDrive/Desktop/VIVA/16bit_brent/16bit_brent.srcs/sources_1/new/carry.v,,buff,,,,,,,,
+C:/Users/htara/OneDrive/Desktop/VIVA/16bit_brent/16bit_brent.srcs/sources_1/new/carry.v,1730898689,verilog,,C:/Users/htara/OneDrive/Desktop/VIVA/16bit_brent/16bit_brent.srcs/sources_1/new/carrygen.v,,carry,,,,,,,,
+C:/Users/htara/OneDrive/Desktop/VIVA/16bit_brent/16bit_brent.srcs/sources_1/new/carrygen.v,1730838190,verilog,,C:/Users/htara/OneDrive/Desktop/VIVA/16bit_brent/16bit_brent.srcs/sources_1/new/sum.v,,carrygen,,,,,,,,
+C:/Users/htara/OneDrive/Desktop/VIVA/16bit_brent/16bit_brent.srcs/sources_1/new/sum.v,1730838185,verilog,,C:/Users/htara/OneDrive/Desktop/VIVA/16bit_brent/16bit_brent.srcs/sim_1/new/tb.v,,sum,,,,,,,,

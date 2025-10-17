@@ -1,0 +1,14 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../16bit_brent.srcs/sources_1/new/BKA.v" \
+"../../../../16bit_brent.srcs/sources_1/new/buff.v" \
+"../../../../16bit_brent.srcs/sources_1/new/carry.v" \
+"../../../../16bit_brent.srcs/sources_1/new/carrygen.v" \
+"../../../../16bit_brent.srcs/sources_1/new/sum.v" \
+"../../../../16bit_brent.srcs/sim_1/new/tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
